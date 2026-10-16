@@ -1,11 +1,7 @@
-# Generador de PI · 0.84
+# Generador de PI · 0.85
 
 Publicació GitHub Pages des de main / arrel.
 
-176 criteris; graelles per àrea/competència; una fila per adaptació amb avaluació independent. Exportació PDF/Word.
+La v0.85 situa el títol de Justificació junt amb les seves caselles i text, i el de Professionals sobre la seva taula. Conserva les correccions d'importació de v0.84, el catàleg de 176 criteris i les files independents per adaptació.
 
-La v0.84 repara patrons inequívocs de conversió Word→JSON: justificació i caselles separades, etiquetes professionals, dates de reunió i dades a les capçaleres. Conserva originals al JSON. La justificació queda dins d'una cel·la delimitada al PDF.
-
-Les dades dels PI es desen al navegador. Exporta el JSON per conservar-ne una còpia. No pugis dades d'alumnes al repositori.
-
-Consulta IMPORTACIO_WORD_JSON.md per preparar conversions correctes.
+Els PI es desen al navegador. Exporta el JSON per conservar una còpia. No pugis dades d'alumnes al repositori. Consulta IMPORTACIO_WORD_JSON.md per a la conversió dels documents.
