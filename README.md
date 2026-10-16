@@ -1,9 +1,11 @@
-# Generador de PI · 0.83
+# Generador de PI · 0.84
 
-Aplicació pública publicada amb GitHub Pages, des de la branca main i l'arrel del repositori.
+Publicació GitHub Pages des de main / arrel.
 
-Catàleg de 176 criteris. Una graella per àrea o competència seleccionada. Una fila per criteri adaptat, amb avaluació independent i cel·la general agrupada. Exportació PDF i Word editable.
+176 criteris; graelles per àrea/competència; una fila per adaptació amb avaluació independent. Exportació PDF/Word.
 
-Els PI es desen només al navegador. Exporta el JSON per conservar una còpia o canviar de dispositiu. No pugis dades d’alumnes al repositori.
+La v0.84 repara patrons inequívocs de conversió Word→JSON: justificació i caselles separades, etiquetes professionals, dates de reunió i dades a les capçaleres. Conserva originals al JSON. La justificació queda dins d'una cel·la delimitada al PDF.
 
-Validació: compilació, proves PDF/Word, integritat curricular, agrupació i files adaptades. PDF revisat visualment. Aquest repositori conté únicament la compilació web; el codi font de la v0.83 es conserva al projecte de desenvolupament.
+Les dades dels PI es desen al navegador. Exporta el JSON per conservar-ne una còpia. No pugis dades d'alumnes al repositori.
+
+Consulta IMPORTACIO_WORD_JSON.md per preparar conversions correctes.
